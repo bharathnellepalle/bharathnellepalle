@@ -1,13 +1,4 @@
-[PROFILE_README.md](https://github.com/user-attachments/files/32190064/PROFILE_README.md)
-## Hi there 👋
-
-<!--
-**bharathnellepalle/bharathnellepalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...<h1 align="center">Hi, I'm Bharath 👋</h1>
+<h1 align="center">Hi, I'm Bharath 👋</h1>
 
 <p align="center">
   <b>Open-source builder — I design and ship practical developer tools.</b>
@@ -75,11 +66,3 @@ repair, and merge tools.
 ### 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharathnellepalle/)
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
