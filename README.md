@@ -67,41 +67,44 @@ As a developer, I build the tooling that makes this work repeatable and scalable
 
 ### Currently Building
 
+<table>
+<tr>
+<td>
+
 **AI Governance Application** &nbsp; <img src="https://img.shields.io/badge/status-in_development-1F6FEB?style=flat-square" alt="In development" />
+
 An application for governing the use of AI within an organisation — cataloguing AI models, datasets and services in use, tracking their licenses and usage terms, and supporting review workflows so AI is adopted responsibly and in line with policy.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### Featured Work
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 **OSS Notice File Generator**
-A web application that takes a list of open-source dependencies, retrieves each package's source from Git, npm, PyPI, Maven, NuGet, crates.io, conda or a purl, scans it with ScanCode Toolkit to extract actual copyright and license text, and produces a structured `THIRD_PARTY_NOTICES.txt`. Includes live scan progress, notice-file repair and merge utilities.
-<br/>
-`FastAPI` `React` `TypeScript` `WebSockets` `ScanCode` `SPDX`
 
-**License Scanning Case Studies**
-Compliance scans of real-world open-source projects, documenting detected licenses, copyrights and obligations.
-<br/>
-[SpringBoot_OSS_Compliance](https://github.com/bharathnellepalle/SpringBoot_OSS_Compliance) · [undertow-license-scan](https://github.com/bharathnellepalle/undertow-license-scan) · [leo-util-linux-scan-test](https://github.com/bharathnellepalle/leo-util-linux-scan-test) · [Foss](https://github.com/bharathnellepalle/Foss)
+Takes a list of open-source dependencies, retrieves each package's source (Git, npm, PyPI, Maven, NuGet, crates.io, conda or purl), scans it with ScanCode Toolkit to extract actual copyright and license text, and produces a structured `THIRD_PARTY_NOTICES.txt`. Includes live scan progress and notice-file repair and merge utilities.
 
-**Other Projects**
-<br/>
-[expensetrackerapi](https://github.com/bharathnellepalle/expensetrackerapi) — REST API for expense tracking
-<br/>
-[gs-rest-service](https://github.com/bharathnellepalle/gs-rest-service) — RESTful web service with Spring Boot
-<br/>
-[Quiz-App](https://github.com/bharathnellepalle/Quiz-App) — customizable quiz application
-<br/>
-[Vitamin-Search](https://github.com/bharathnellepalle/Vitamin-Search) — nutrient lookup web app
+`FastAPI` `React` `TypeScript` `ScanCode` `SPDX`
 
----
+</td>
+<td width="50%" valign="top">
 
-### GitHub Activity
+**License Scanning Assessments**
 
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=bharathnellepalle&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathnellepalle&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
-</div>
+Compliance scans of real-world open-source projects — including Spring Boot, Undertow and util-linux — documenting detected licenses, copyright holders and resulting obligations, with findings prepared for legal and engineering review.
+
+`ScanCode` `SPDX` `CycloneDX` `Snyk`
+
+</td>
+</tr>
+</table>
 
 ---
 
