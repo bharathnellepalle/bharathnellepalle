@@ -1,6 +1,6 @@
 <div align="center">
 
-# Bharath N
+# Bharath Nellepalle
 
 **OSS Consultant & Developer · Open-Source Compliance · AI Governance**
 
